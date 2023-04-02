@@ -1,0 +1,8 @@
+# underwater voice
+#train: images/train2017
+train: /home/user11/Desktop/
+val: /home/user11/Desktop/test-A-image
+# number of classes
+nc: 4
+# class name
+names: ['holothurian','echinus','scallop','starfish']

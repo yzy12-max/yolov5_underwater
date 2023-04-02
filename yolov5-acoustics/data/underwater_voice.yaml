@@ -1,0 +1,8 @@
+# underwater voice
+#train: images/train2017
+train: /home/user11/Desktop/
+val: /home/user11/Desktop/image
+# number of classes
+nc: 10
+# class name
+names: ['cube','ball','cylinder','human body','tyre','circle cage','square cage','metal bucket','plane','rov']
